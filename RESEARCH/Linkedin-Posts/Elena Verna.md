@@ -58,4 +58,4 @@ Organizations can improve conversion and monetization by focusing on high-intent
 3. Growth metrics should be measured at the account level.
 4. Strong segmentation improves prioritization and personalization.
 5. Product usage data should guide sales engagement.
-6. Enterprise growth requires solving user, team, and company-level problems.j
+6. Enterprise growth requires solving user, team, and company-level problems.
