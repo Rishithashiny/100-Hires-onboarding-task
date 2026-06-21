@@ -121,3 +121,98 @@ Through this task, I gained practical experience with:
 
 ### Outcome
 Successfully completed the onboarding setup process, configured the required tools, created a public GitHub repository, connected it with Cursor IDE, and documented the entire workflow.
+
+# Research Methodology & Expert Selection
+
+## Objective
+The goal of this research repository is to understand how leading B2B SaaS practitioners use LinkedIn organic content to build audience, generate demand, establish thought leadership, and support go-to-market (GTM) execution.
+Rather than studying generic influencers or personal branding creators, I focused on operators and practitioners who actively build, scale, or advise B2B SaaS companies.
+Their content provides real-world insights into:
+* LinkedIn organic growth
+* Demand generation
+* Product marketing
+* Product-Led Growth (PLG)
+* Content-led growth
+* Revenue operations
+* Community building
+* AI-powered marketing
+* Modern GTM strategy
+
+## What Was Collected
+For each expert, I collected:
+
+### LinkedIn Content
+* Recent LinkedIn posts
+* Post URLs
+* Publication dates (where available)
+* Summaries
+* Strategic takeaways
+* Key themes and recurring frameworks
+
+### YouTube Content
+* Original YouTube video URLs
+* Channel information
+* Video metadata
+* Video transcripts
+* Transcript summaries
+* Transcript word counts
+
+### Research Outputs
+* Individual expert research files
+* LinkedIn post archives
+* YouTube transcript archives
+* Cross-expert analysis
+* Theme clustering and pattern recognition
+
+## Why These Experts Were Chosen
+### Dave Gerhardt
+Selected for his expertise in B2B SaaS demand generation, content-led growth, brand building, and community creation through Exit Five. His work demonstrates how organic content can drive trust and pipeline generation.
+### Kieran Flanagan
+Selected for his leadership in AI-powered marketing, AI-native GTM systems, and modern SaaS growth strategy. His content explores how AI is changing content distribution, customer acquisition, and demand generation.
+### Kyle Poyar
+Selected for his research and operational experience in Product-Led Growth, SaaS monetization, pricing strategy, and growth systems. His work connects content, product adoption, and revenue expansion.
+### Ashley Lewin
+Selected for her expertise in demand generation, product marketing, growth strategy, and revenue-focused marketing execution. Her content emphasizes measurable business outcomes over vanity metrics.
+### Chris Walker
+Selected as one of the most influential voices in modern B2B demand generation. His frameworks focus on pipeline creation, GTM alignment, buyer intent, and revenue growth.
+### Kevin Indig
+Selected for his work at the intersection of SEO, AI search, content strategy, and SaaS growth. His research provides insight into how organic discovery is evolving in an AI-driven search environment.
+### Guillaume Cabane
+Selected for his expertise in growth engineering, experimentation, outbound innovation, and behavioral psychology. His content provides unique perspectives on scalable growth systems.
+### Casey Winters
+Selected because many modern growth frameworks used by SaaS companies originated from his work. His insights on activation, onboarding, retention, and growth team design remain foundational.
+### Elena Verna
+Selected for her deep expertise in Product-Led Growth, Product-Led Sales, monetization, and SaaS expansion. Her frameworks explain how successful SaaS businesses scale users into revenue.
+### Ross Simmonds
+Selected for his specialization in content distribution, demand generation, and content amplification. His work directly addresses how B2B SaaS companies maximize reach and ROI from organic content.
+
+## Why These Experts Are Relevant to LinkedIn Organic Content Strategy
+A recurring pattern across all selected experts is that successful LinkedIn growth is not driven by personal branding tactics alone.
+Instead, high-performing B2B SaaS operators consistently use LinkedIn to:
+* Share original operating insights
+* Teach practical frameworks
+* Build trust through expertise
+* Distribute long-form content
+* Validate product and market ideas
+* Generate demand organically
+* Strengthen brand authority
+* Build professional communities
+Their content provides a practical blueprint for using LinkedIn as a strategic GTM and demand generation channel rather than simply a social media platform.
+
+
+## Key Themes Discovered
+Across all experts, several themes appeared repeatedly:
+### Demand Generation Over Lead Generation
+High-performing SaaS companies focus on creating demand and market awareness rather than optimizing lead volume.
+### Customer Understanding as Competitive Advantage
+The strongest content originates from deep customer insight rather than content production volume.
+### Content Distribution Matters More Than Content Creation
+Successful operators invest heavily in distribution, repurposing, and amplification.
+### Product-Led Growth and Revenue Expansion
+Growth increasingly comes from activation, retention, expansion, and customer success rather than acquisition alone.
+### AI Is Reshaping GTM
+AI is transforming search, content discovery, prospecting, customer research, and marketing operations.
+### Cross-Functional Growth Teams Win
+The most effective growth organizations align Product, Marketing, Sales, Customer Success, and Operations around shared outcomes.
+### Trust Is the New Distribution Advantage
+As AI-generated content increases, credibility, expertise, community, and authentic practitioner insights become stronger competitive advantages.
