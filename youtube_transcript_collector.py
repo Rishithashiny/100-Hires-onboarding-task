@@ -67,7 +67,7 @@ def main() -> None:
 
 ---
 
-{result.content}
+{" ".join(chunk.text for chunk in result.content)}
 """
 
     filepath.write_text(markdown, encoding="utf-8")
